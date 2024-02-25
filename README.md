@@ -4,7 +4,7 @@ Je m'appelle Karim EL KAID et je suis un étudiant passionné en 2ème année de
 
 ## À propos de moi
 
-- 💻 Actuellement immergé dans le monde de l'informatique, je suis reconnu pour mon sérieux, ma motivation, et mon enthousiasme à résoudre des problèmes complexes. Ma capacité à naviguer à travers des défis informatiques a été aiguisée par des projets ambitieux, me permettant de développer des solutions efficaces, élégantes et maintenables.
+💻 Actuellement immergé dans le monde de l'informatique, je suis reconnu pour mon sérieux, ma motivation, et mon enthousiasme à résoudre des problèmes complexes. Ma capacité à naviguer à travers des défis informatiques a été aiguisée par des projets ambitieux, me permettant de développer des solutions efficaces, élégantes et maintenables.
 
 ## Compétences et passion
 
