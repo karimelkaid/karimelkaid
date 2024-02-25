@@ -18,4 +18,4 @@ Je m'appelle Karim EL KAID et je suis un étudiant passionné en 2ème année de
 
 - 🌐 **Application de gestion de recettes en C# .NET** : Aventurez-vous dans le développement d'une application gestion de recettes, démontrant ma polyvalence à travailler avec différentes technologies. Ce projet témoigne de ma capacité à appliquer des connaissances théoriques en contextes réels, en explorant des documentations techniques complexes.
 
-Je vous invite à explorer mes projets pour découvrir comment j'associe plaisir, apprentissage, et développement de solutions innovantes dans le domaine de l'informatique.
+Je vous invite à explorer mes projets pour découvrir comment j'associe plaisir, apprentissage, et développement de solutions élégantes, le tout en étant maintenable dans le domaine de l'informatique.
