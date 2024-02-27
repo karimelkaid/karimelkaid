@@ -8,7 +8,7 @@ Je m'appelle Karim EL KAID et je suis un étudiant concepteur-développeur passi
 
 ## Compétences et passion
 
-- 🎮 **Développement de jeu avec Godot** : J'ai récemment développé en équipe un jeu vidéo en utilisant Godot sur une période de 12 semaines. Ce projet a été un parfait exemple d'apprentissage par le divertissement, alliant créativité, expertise technique, et compétences en gestion de projet. Il a également élargi ma capacité d'adaptation et enrichi mon expérience dans la résolution de défis informatiques.
+- 🎮 **Développement de jeu avec Godot** : J'ai récemment développé en équipe un jeu vidéo en utilisant Godot sur une période de 12 semaines. Ce projet a été un parfait exemple d'apprentissage par le divertissement, alliant créativité, expertise technique, et compétences en gestion de projet. Il a également élargi ma capacité d'adaptation car j'ai dû programmer d'une manière qui sortait de mes habitudes,et enrichi mon expérience dans la résolution de défis informatiques.
 
 - 🧩 **Résolveurs de sudoku** : Mes résolveurs de sudoku, confrontés à des contraintes uniques, ont renforcé ma rigueur et mon attention au détail. Ce défi intellectuel a non seulement enrichi mon expérience en programmation mais a également affiné ma persévérance et ma créativité.
 
