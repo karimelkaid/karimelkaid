@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub !  👋
 
-Je m'appelle Karim EL KAID et je suis un étudiant concepteur-développeur passionné en deuxième année de BUT Informatique. Ma curiosité pour l'informatique m'a conduit à explorer divers domaines, et je suis ravi de partager mes expériences à travers mes projets.
+Je m'appelle Karim EL KAID et je suis un étudiant concepteur-développeur d'applications passionné en deuxième année de BUT Informatique. Ma curiosité pour l'informatique m'a conduit à explorer divers domaines, et je suis ravi de partager mes expériences à travers mes projets.
 
 ## À propos de moi
 
