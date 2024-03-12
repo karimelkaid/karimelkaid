@@ -2,10 +2,6 @@
 
 ![presentation](https://github.com/karimelkaid/karimelkaid/assets/160601090/bcc18cc6-d4e5-4c5c-aed2-dc6e5c958776)
 
-## À propos de moi
-
-💻 Actuellement immergé dans le monde de l'informatique, je suis reconnu pour mon sérieux, ma motivation, et mon enthousiasme à résoudre des problèmes complexes. Ma capacité à naviguer à travers des défis informatiques a été aiguisée par des projets ambitieux, me permettant de développer des solutions efficaces, élégantes et maintenables.
-
 ## Compétences et passion
 
 - 🎮 **Développement de jeu avec Godot** : J'ai récemment développé en équipe un jeu vidéo en utilisant Godot sur une période de 12 semaines. Ce projet a été un parfait exemple d'apprentissage par le divertissement, alliant créativité, expertise technique, et compétences en gestion de projet. Il a également élargi ma capacité d'adaptation car j'ai dû programmer d'une manière qui sortait de mes habitudes,et enrichi mon expérience dans la résolution de défis informatiques.
